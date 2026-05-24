@@ -1,0 +1,581 @@
+{
+  "content": {
+    "en": {
+      "seo": {
+        "title": "Creative Imprints — Cinematic Digital Products",
+        "description": "We craft cinematic digital products. A studio that works closely with mobile, web, and AI experiences for ambitious brands across the globe.",
+        "keywords": "digital studio, web development, mobile apps, AI solutions, branding",
+        "url": "https://www.creativeimprints.com"
+      },
+      "navbar": {
+        "brandName": "Creative Imprints",
+        "brandTag": "Software & AI Studio",
+        "cta": "Start a project",
+        "links": [
+          {
+            "label": "Home",
+            "target": "home"
+          },
+          {
+            "label": "About",
+            "target": "about"
+          },
+          {
+            "label": "Expertise",
+            "target": "expertise"
+          },
+          {
+            "label": "Why Us",
+            "target": "why-us"
+          },
+          {
+            "label": "Testimonials",
+            "target": "testimonials"
+          },
+          {
+            "label": "Portfolio",
+            "target": "portfolio"
+          },
+          {
+            "label": "Contact",
+            "target": "contact"
+          }
+        ],
+        "langButton": "AR"
+      },
+      "hero": {
+        "badge": "Premium Software & AI Studio",
+        "title": "We turn your ideas into a dazzling digital reality.",
+        "subtitle": "At Creative Imprints, we combine technology and creativity to leave an unforgettable mark on the world of software.",
+        "button": "Start your project →",
+        "secondaryButton": "Explore work"
+      },
+      "stats": [
+        {
+          "value": "95%",
+          "label": "Satisfaction and ongoing support"
+        },
+        {
+          "value": "5+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "100+",
+          "label": "Happy clients"
+        },
+        {
+          "value": "239+",
+          "label": "Projects delivered"
+        }
+      ],
+      "studio": {
+        "label": "About",
+        "title": "A studio engineered for the future.",
+        "subtitle": "We are a multidisciplinary team of engineers, designers, and AI specialists. We partner with founders and enterprises to build products that feel inevitable — fast, beautiful, and built to scale.",
+        "vision": "To be the creative engine behind the next generation of digital products in the real world and beyond.",
+        "mission": "Empower every ambitious brand with software that performs at a world‑class standard."
+      },
+      "expertise": {
+        "label": "Expertise",
+        "title": "End-to-end product expertise.",
+        "subtitle": "From a sketch on a napkin to a million users — we cover every layer of the modern product stack.",
+        "items": [
+          {
+            "title": "Mobile Apps",
+            "description": "Native and cross-platform apps with cinematic motion and rock-solid performance.",
+            "icon": "📱"
+          },
+          {
+            "title": "Web Platforms",
+            "description": "Lightning-fast, SEO-perfect web experiences built on a modern stack.",
+            "icon": "🌐"
+          },
+          {
+            "title": "E-commerce",
+            "description": "High-converting storefronts and marketplaces tailored to your brand.",
+            "icon": "🛒"
+          },
+          {
+            "title": "Learning Platforms",
+            "description": "Scalable LMS and educational products with delightful learner UX.",
+            "icon": "🎓"
+          },
+          {
+            "title": "UI / UX Design",
+            "description": "Research-driven design systems and interfaces that feel inevitable.",
+            "icon": "🎨"
+          },
+          {
+            "title": "AI Solutions",
+            "description": "Custom LLM agents, RAG pipelines, and AI features embedded into your product.",
+            "icon": "🤖"
+          },
+          {
+            "title": "Branding",
+            "description": "Identity systems that translate strategy into visual gravity.",
+            "icon": "✨"
+          },
+          {
+            "title": "Cloud Systems",
+            "description": "Resilient, secure infrastructure designed to scale to millions.",
+            "icon": "☁️"
+          },
+          {
+            "title": "Digital Transformation",
+            "description": "Modernize legacy operations into measurable digital leverage.",
+            "icon": "🚀"
+          }
+        ]
+      },
+      "builtDifferent": {
+        "label": "Why Creative Imprints",
+        "title": "Built different. Built to last.",
+        "items": [
+          {
+            "title": "Modern stack",
+            "description": "Always on the latest frameworks, runtimes, and AI models.",
+            "icon": "🧠"
+          },
+          {
+            "title": "Speed obsessed",
+            "description": "We ship in weeks, not quarters — without cutting quality.",
+            "icon": "⚡"
+          },
+          {
+            "title": "Security first",
+            "description": "Enterprise-grade security and compliance baked in from day one.",
+            "icon": "🛡️"
+          },
+          {
+            "title": "Scales infinitely",
+            "description": "Architectures battle-tested from MVP to millions of users.",
+            "icon": "📈"
+          },
+          {
+            "title": "Senior team",
+            "description": "No juniors learning on your dime — only proven specialists.",
+            "icon": "👥"
+          },
+          {
+            "title": "Crafted UX",
+            "description": "Pixel-level care. Motion that delights. Details that convert.",
+            "icon": "🎯"
+          }
+        ]
+      },
+      "finalCta": {
+        "label": "LET'S TALK",
+        "title": "Have a project in mind?",
+        "subtitle": "Tell us about your idea. We typically respond within 24 hours.",
+        "email": "hello@creativeimprints.com",
+        "phone": "00962796556898",
+        "location": "Business park - Vbc -111",
+        "whatsapp": "Chat on WhatsApp",
+        "formLabels": {
+          "name": "YOUR NAME",
+          "email": "EMAIL ADDRESS",
+          "project": "TELL US ABOUT YOUR PROJECT",
+          "submit": "Send message"
+        }
+      },
+      "testimonials": {
+        "label": "LOVED BY FOUNDERS",
+        "title": "Trusted by the bold.",
+        "items": [
+          {
+            "quote": "\"Creative Imprints delivered our platform in 6 weeks. The quality rivals anything I've seen out of San Francisco.\"",
+            "name": "Sara Al-Mutairi",
+            "role": "CEO, Nayabank",
+            "avatar": "S"
+          },
+          {
+            "quote": "\"They didn't just build software — they shaped our entire product thinking. A true partner.\"",
+            "name": "Omar Khalid",
+            "role": "Founder, Luman Health",
+            "avatar": "O"
+          },
+          {
+            "quote": "\"World-class team. Every detail is intentional. Our conversion doubled within a month.\"",
+            "name": "Hala Ibrahim",
+            "role": "CMO, Atlas Commerce",
+            "avatar": "H"
+          }
+        ]
+      },
+      "portfolio": {
+        "label": "SELECTED WORK",
+        "title": "Products we're proud of.",
+        "categories": [
+          "All",
+          "Web",
+          "Mobile",
+          "AI",
+          "Branding"
+        ],
+        "items": [
+          {
+            "title": "NovaBank",
+            "subtitle": "Fintech platform",
+            "category": "Web",
+            "gradient": "from-blue-500 to-purple-600",
+            "image": "portfolio1.jpeg",
+            "link": ""
+          },
+          {
+            "title": "Passenger Transport",
+            "subtitle": "Transport App",
+            "category": "Mobile",
+            "gradient": "from-purple-500 to-pink-600",
+            "image": "portfolio2.jpeg",
+            "link": ""
+          },
+          {
+            "title": "Online Store",
+            "subtitle": "E-commerce site",
+            "category": "Web",
+            "gradient": "from-cyan-500 to-teal-600",
+            "image": "portfolio3.jpeg",
+            "link": ""
+          },
+          {
+            "title": "Educational Platform",
+            "subtitle": "LMS Platform",
+            "category": "Web",
+            "gradient": "from-orange-500 to-red-600",
+            "image": "portfolio4.jpeg",
+            "link": ""
+          },
+          {
+            "title": "Visual Identity",
+            "subtitle": "Brand system",
+            "category": "Branding",
+            "gradient": "from-teal-500 to-cyan-600",
+            "image": "portfolio5.jpeg",
+            "link": ""
+          },
+          {
+            "title": "Pulse Learn",
+            "subtitle": "Education platform",
+            "category": "Mobile",
+            "gradient": "from-blue-600 to-indigo-700",
+            "image": "portfolio6.jpeg",
+            "link": ""
+          }
+        ]
+      },
+      "footer": {
+        "brandName": "Creative Imprints",
+        "tagline": "Crafting the future of digital products.",
+        "links": {
+          "navigate": [
+            "Home",
+            "About",
+            "Expertise",
+            "Why Us",
+            "Testimonials",
+            "Portfolio",
+            "Contact"
+          ],
+          "social": [
+            "twitter",
+            "linkedin",
+            "instagram",
+            "github"
+          ]
+        },
+        "copyright": "© 2024 Creative Imprints. All rights reserved.",
+        "footerNavigateLabel": "Navigate",
+        "footerSocialLabel": "Social"
+      }
+    },
+    "ar": {
+      "seo": {
+        "title": "كرياتيف إمبرينتس — منتجات رقمية سينمائية",
+        "description": "نصنع منتجات رقمية سينمائية. استوديو يعمل عن كثب مع تجارب الهاتف المحمول والويب والذكاء الاصطناعي للعلامات التجارية الطموحة حول العالم.",
+        "keywords": "استوديو رقمي, تطوير ويب, تطبيقات جوال, حلول ذكاء اصطناعي, علامات تجارية",
+        "url": "https://www.creativeimprints.com"
+      },
+      "navbar": {
+        "brandName": "كرياتيف إمبرينتس",
+        "brandTag": "استوديو برمجيات وذكاء اصطناعي",
+        "cta": "ابدأ مشروعاً",
+        "links": [
+          {
+            "label": "الرئيسية",
+            "target": "home"
+          },
+          {
+            "label": "حول",
+            "target": "about"
+          },
+          {
+            "label": "خبراتنا",
+            "target": "expertise"
+          },
+          {
+            "label": "لماذا نحن",
+            "target": "why-us"
+          },
+          {
+            "label": "آراء العملاء",
+            "target": "testimonials"
+          },
+          {
+            "label": "أعمالنا",
+            "target": "portfolio"
+          },
+          {
+            "label": "اتصل بنا",
+            "target": "contact"
+          }
+        ],
+        "langButton": "EN"
+      },
+      "hero": {
+        "badge": "استوديو برمجيات وذكاء اصطناعي متميز",
+        "title": "التغييرات متزامنة",
+        "subtitle": "في كرياتيف إمبرينتس، نمزج التكنولوجيا بالإبداع لنترك بصمة لا تُنسى في عالم البرمجيات.",
+        "button": "ابدأ مشروعك →",
+        "secondaryButton": "استعرض الأعمال"
+      },
+      "stats": [
+        {
+          "value": "95%",
+          "label": "رضا ودعم متواصل"
+        },
+        {
+          "value": "5+",
+          "label": "سنوات من الخبرة"
+        },
+        {
+          "value": "100+",
+          "label": "عميل سعيد"
+        },
+        {
+          "value": "239+",
+          "label": "مشروع منجز"
+        }
+      ],
+      "studio": {
+        "label": "حول",
+        "title": "استوديو صُمم للمستقبل.",
+        "subtitle": "نحن فريق متعدد التخصصات يضم مهندسين ومصممين وخبراء ذكاء اصطناعي. نتعاون مع المؤسسين والشركات لبناء منتجات تبدو حتمية — سريعة وجميلة وقابلة للتوسع.",
+        "vision": "أن نكون المحرك الإبداعي وراء الجيل القادم من المنتجات الرقمية في العالم الحقيقي وما بعده.",
+        "mission": "تمكين كل علامة تجارية طموحة من خلال برمجيات تقدم أداءً بمعايير عالمية."
+      },
+      "expertise": {
+        "label": "خبراتنا",
+        "title": "خبرة شاملة في تطوير المنتجات.",
+        "subtitle": "من رسمة أولية إلى مليون مستخدم — نغطي كل طبقات حزمة المنتج الحديث.",
+        "items": [
+          {
+            "title": "تطبيقات الجوال",
+            "description": "تطبيقات أصلية ومتعددة المنصات بحركة سينمائية وأداء متين.",
+            "icon": "📱"
+          },
+          {
+            "title": "منصات الويب",
+            "description": "تجارب ويب فائقة السرعة ومُحسَّنة لمحركات البحث مبنية بأحدث التقنيات.",
+            "icon": "🌐"
+          },
+          {
+            "title": "التجارة الإلكترونية",
+            "description": "متاجر وأسواق عالية التحويل مصممة خصيصاً لعلامتك التجارية.",
+            "icon": "🛒"
+          },
+          {
+            "title": "منصات التعلم",
+            "description": "أنظمة إدارة تعلم قابلة للتوسع ومنتجات تعليمية بتجربة مستخدم مبهجة.",
+            "icon": "🎓"
+          },
+          {
+            "title": "تصميم واجهات وتجربة المستخدم",
+            "description": "أنظمة تصميم وواجهات مدفوعة بالبحث تبدو طبيعية ومقنعة.",
+            "icon": "🎨"
+          },
+          {
+            "title": "حلول الذكاء الاصطناعي",
+            "description": "وكلاء LLM مخصصون، خطوط RAG، وميزات ذكاء اصطناعي مدمجة في منتجك.",
+            "icon": "🤖"
+          },
+          {
+            "title": "العلامات التجارية",
+            "description": "أنظمة هوية تحوِّل الاستراتيجية إلى جاذبية بصرية مؤثرة.",
+            "icon": "✨"
+          },
+          {
+            "title": "الأنظمة السحابية",
+            "description": "بنية تحتية مرنة وآمنة مصممة للتوسع إلى الملايين من المستخدمين.",
+            "icon": "☁️"
+          },
+          {
+            "title": "التحول الرقمي",
+            "description": "تحديث العمليات التقليدية إلى قوة رقمية قابلة للقياس.",
+            "icon": "🚀"
+          }
+        ]
+      },
+      "builtDifferent": {
+        "label": "لماذا كرياتيف إمبرينتس",
+        "title": "مصمم بطريقة مختلفة. مصمم ليدوم.",
+        "items": [
+          {
+            "title": "تقنيات حديثة",
+            "description": "نعمل بأحدث الأطر والتقنيات ونماذج الذكاء الاصطناعي دائماً.",
+            "icon": "🧠"
+          },
+          {
+            "title": "مهووس بالسرعة",
+            "description": "نطلق المنتجات في أسابيع وليس أرباع السنة — بدون التضحية بالجودة.",
+            "icon": "⚡"
+          },
+          {
+            "title": "الأمان أولاً",
+            "description": "أمان وامتثال على مستوى المؤسسات مدمج منذ اليوم الأول.",
+            "icon": "🛡️"
+          },
+          {
+            "title": "قابل للتوسع بلا حدود",
+            "description": "بنيات معمارية خاضعة لاختبارات مكثفة من الـ MVP إلى ملايين المستخدمين.",
+            "icon": "📈"
+          },
+          {
+            "title": "فريق من الخبراء",
+            "description": "لا مبتدئين يتعلمون على حسابك — فقط متخصصون ذوو خبرة مثبتة.",
+            "icon": "👥"
+          },
+          {
+            "title": "تجربة مستخدم محبوكة",
+            "description": "عناية فائقة بالبكسل. حركات تسر الناظر. تفاصيل تحقق التحويل.",
+            "icon": "🎯"
+          }
+        ]
+      },
+      "finalCta": {
+        "label": "لنتحدث",
+        "title": "هل لديك مشروع في ذهنك؟",
+        "subtitle": "أخبرنا عن فكرتك. نرد عادةً في غضون 24 ساعة.",
+        "email": "hello@creativeimprints.com",
+        "phone": "00962796556898",
+        "location": "الرياض • دبي • عن بُعد",
+        "whatsapp": "دردشة عبر واتساب",
+        "formLabels": {
+          "name": "الاسم الكامل",
+          "email": "البريد الإلكتروني",
+          "project": "أخبرنا عن مشروعك",
+          "submit": "أرسل الرسالة"
+        }
+      },
+      "testimonials": {
+        "label": "محبوبون من المؤسسين",
+        "title": "موثوقون من الجريئين.",
+        "items": [
+          {
+            "quote": "\"قدمت Creative Imprints منصتنا في 6 أسابيع. الجودة تنافس أي شيء رأيته خارج سان فرانسيسكو.\"",
+            "name": "سارة المطيري",
+            "role": "الرئيس التنفيذي، نايابنك",
+            "avatar": "س"
+          },
+          {
+            "quote": "\"لم يبنوا مجرد برمجيات — بل شكلوا كامل فكر منتجنا. شريك حقيقي.\"",
+            "name": "عمر خالد",
+            "role": "المؤسس، لومان هيلث",
+            "avatar": "ع"
+          },
+          {
+            "quote": "\"فريق عالمي. كل التفاصيل مدروسة. تضاعفت التحويلات في شهر واحد.\"",
+            "name": "هالة إبراهيم",
+            "role": "مديرة التسويق، أطلس كومرس",
+            "avatar": "ه"
+          }
+        ]
+      },
+      "portfolio": {
+        "label": "SELECTED WORK",
+        "title": "Products we're proud of.",
+        "categories": [
+          "All",
+          "Web",
+          "Mobile",
+          "AI",
+          "Branding"
+        ],
+        "items": [
+          {
+            "title": "NovaBank",
+            "subtitle": "Fintech platform",
+            "category": "Web",
+            "gradient": "from-blue-500 to-purple-600",
+            "image": "portfolio1.jpeg",
+            "link": ""
+          },
+          {
+            "title": "Passenger Transport",
+            "subtitle": "Transport App",
+            "category": "Mobile",
+            "gradient": "from-purple-500 to-pink-600",
+            "image": "portfolio2.jpeg",
+            "link": ""
+          },
+          {
+            "title": "Online Store",
+            "subtitle": "E-commerce site",
+            "category": "Web",
+            "gradient": "from-cyan-500 to-teal-600",
+            "image": "portfolio3.jpeg",
+            "link": ""
+          },
+          {
+            "title": "Educational Platform",
+            "subtitle": "LMS Platform",
+            "category": "Web",
+            "gradient": "from-orange-500 to-red-600",
+            "image": "portfolio4.jpeg",
+            "link": ""
+          },
+          {
+            "title": "Visual Identity",
+            "subtitle": "Brand system",
+            "category": "Branding",
+            "gradient": "from-teal-500 to-cyan-600",
+            "image": "portfolio5.jpeg",
+            "link": ""
+          },
+          {
+            "title": "Pulse Learn",
+            "subtitle": "Education platform",
+            "category": "Mobile",
+            "gradient": "from-blue-600 to-indigo-700",
+            "image": "portfolio6.jpeg",
+            "link": ""
+          }
+        ]
+      },
+      "footer": {
+        "brandName": "كرياتيف إمبرينتس",
+        "tagline": "نصنع مستقبل المنتجات الرقمية.",
+        "links": {
+          "navigate": [
+            "الرئيسية",
+            "حول",
+            "خبراتنا",
+            "لماذا نحن",
+            "آراء العملاء",
+            "أعمالنا",
+            "اتصل بنا"
+          ],
+          "social": [
+            "تويتر",
+            "لينكدإن",
+            "انستغرام",
+            "جيتهاب"
+          ]
+        },
+        "copyright": "© 2024 كرياتيف إمبرينتس. جميع الحقوق محفوظة.",
+        "footerNavigateLabel": "تصفح",
+        "footerSocialLabel": "تواصل اجتماعي"
+      }
+    }
+  },
+  "updatedAt": "2026-05-24T20:35:06.120Z"
+}
